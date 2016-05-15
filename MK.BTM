@@ -1,0 +1,3 @@
+tasm /la /ml /m5 /zi pack.asm
+tlink /c /s /Tde /v pack
+
